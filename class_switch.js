@@ -80,6 +80,8 @@ var cs3300 = '<html lang = "en"><head><meta charset = "utf-8" name="viewport" co
 		<h4>\
 		Made by:\
 		<a href = "Christopher Felicitas\' Personal Webpage/Personal Webpage.html">Christopher Felicitas</a>,\
+		<a href = "LuisMoreno_FirstWebPage/luisWEBPAGE.html">Luis Moreno</a>,\
+		<a href = "BrandonWebPageDocs/index.html">Brandon Toppass</a>\
 		</h4>\
 	  </span>\
     </footer>\
